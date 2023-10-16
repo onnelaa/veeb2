@@ -1,2 +1,2 @@
 # veeb2
-Veebiprogrammeerimise kususe teine osa
+Veebiprogrammeerimise kursuse teine osa
